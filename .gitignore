@@ -34,6 +34,9 @@ ENV/
 *.swo
 *~
 
+# Gradio
+.gradio/
+
 # OS
 .DS_Store
 .DS_Store?
